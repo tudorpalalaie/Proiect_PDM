@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ECatalog.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ECatalog">
+
+    <FlyoutItem Title="Pagina principala">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:MainPage}"
+    Route="MainPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Profil">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:Profil}"
+    Route="Profil" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Materii">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:Materii}"
+    Route="Materii" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Note">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:Note}"
+    Route="Note" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Grafic note">
+        <ShellContent
+        ContentTemplate="{DataTemplate local:GraficNote}"
+    Route="GraficNote"/>
+    </FlyoutItem>
+
+    <FlyoutItem Title="Calculator medie">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:CalculatorMedie}"
+    Route="CalculatorMedie" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Despre">
+        <ShellContent
+    ContentTemplate="{DataTemplate local:Despre}"
+    Route="Despre" />
+    </FlyoutItem>
+
+</Shell>

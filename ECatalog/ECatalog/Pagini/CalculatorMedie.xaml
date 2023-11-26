@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ECatalog.CalculatorMedie"
+             Title="CalculatorMedie">
+    <Grid RowDefinitions="*,*,*,*,*,*,*,*,*,*" Padding="10" RowSpacing="0" ColumnSpacing="1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label 
+        VerticalOptions="Start"
+        HorizontalOptions="Start"
+        Grid.Column="0"
+        FontAttributes="Bold"
+        Text="Materie"/>
+
+        <Label 
+        VerticalOptions="Start"
+        Grid.Column="1"
+        FontAttributes="Bold"
+        Text="Nota"
+        HorizontalOptions="Start"/>
+
+        <Label 
+        VerticalOptions="Start"
+        Text="Credite"
+        FontAttributes="Bold"
+        Grid.Column="2"
+        HorizontalOptions="Start"/>
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Analiza Matematica"
+        Grid.Column="0"
+        Grid.Row="1"/>
+
+        <Entry 
+        x:Name="entryValoare"
+        Text="{Binding Valoare}"
+        MaxLength="2"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        HorizontalOptions="StartAndExpand"
+        HorizontalTextAlignment="Center"
+        Grid.Row="1"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite"
+        Text="{Binding Credite}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        HorizontalOptions="StartAndExpand"
+        Grid.Row="1"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Aplicatii mobile"
+        Grid.Row="2"
+        Grid.Column="0" />
+
+        <Entry 
+        x:Name="entryValoare2"
+        Text="{Binding Valoare2}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        Grid.Row="2"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite2"
+        Text="{Binding Credite2}"
+        Grid.Row="2"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Sport"
+        Grid.Row="3"
+        Grid.Column="0" />
+
+        <Entry 
+        x:Name="entryValoare3"
+        Text="{Binding Valoare3}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        Grid.Row="3"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite3"
+        Text="{Binding Credite3}"
+        Grid.Row="3"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Engleza"
+        Grid.Row="4"
+        Grid.Column="0" />
+
+        <Entry 
+        x:Name="entryValoare4"
+        Text="{Binding Valoare4}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        Grid.Row="4"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite4"
+        Text="{Binding Credite4}"
+        Grid.Row="4"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Aplicatii Windows "
+        Grid.Row="5"
+        Grid.Column="0" />
+
+        <Entry 
+        x:Name="entryValoare5"
+        Text="{Binding Valoare5}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        Grid.Row="5"
+        HorizontalOptions="StartAndExpand"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite5"
+        Text="{Binding Credite5}"
+        Grid.Row="5"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        HorizontalOptions="StartAndExpand"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Label 
+        VerticalOptions="Center"
+        Text="Java"
+        Grid.Row="6"
+        Grid.Column="0" />
+
+        <Entry 
+        x:Name="entryValoare6"
+        Text="{Binding Valoare6}"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="10"
+        Grid.Column="1"
+        Grid.Row="6"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Entry 
+        x:Name="entryCredite6"
+        Text="{Binding Credite6}"
+        Grid.Row="6"
+        MaxLength="2"
+        HorizontalTextAlignment="Center"
+        HeightRequest="40"
+        Placeholder="0"
+        Grid.Column="2"
+        HorizontalOptions="StartAndExpand"
+        WidthRequest="100"
+        Keyboard="Numeric"/>
+
+        <Button
+         Text="Calculeaza media artimetica ponderata!"
+         Grid.Row="7"
+         Grid.Column="0"
+         TextColor="Black"
+         HorizontalOptions="StartAndExpand"
+         Clicked="CalculeazaMedie"
+         HeightRequest="50"
+         WidthRequest="300"/>
+        <Entry 
+        x:Name="result"
+        MaxLength="4"
+        HorizontalTextAlignment="Center"
+        HorizontalOptions="StartAndExpand"
+        HeightRequest="40"
+        Placeholder="medie"
+        Grid.Column="0"
+        Grid.Row="8"
+        WidthRequest="100"
+        IsReadOnly="True"
+        BackgroundColor="Grey"/>
+    </Grid>
+
+</ContentPage>

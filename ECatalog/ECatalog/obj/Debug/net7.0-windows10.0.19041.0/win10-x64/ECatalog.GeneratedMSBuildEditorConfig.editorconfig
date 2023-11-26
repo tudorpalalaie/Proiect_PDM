@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net7.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ECatalog
+build_property.ProjectDir = C:\Git\Proiect_PDM\ECatalog\ECatalog\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/CalculatorMedie.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.CalculatorMedie.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\CalculatorMedie.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\CalculatorMedie.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/Despre.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.Despre.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\Despre.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\Despre.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/GraficNote.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.GraficNote.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\GraficNote.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\GraficNote.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\MainPage.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/Materii.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.Materii.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\Materii.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\Materii.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/Note.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.Note.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\Note.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\Note.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Pagini/Profil.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Pagini.Profil.xaml
+build_metadata.AdditionalFiles.TargetPath = Pagini\Profil.xaml
+build_metadata.AdditionalFiles.RelativePath = Pagini\Profil.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Git/Proiect_PDM/ECatalog/ECatalog/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ECatalog.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
