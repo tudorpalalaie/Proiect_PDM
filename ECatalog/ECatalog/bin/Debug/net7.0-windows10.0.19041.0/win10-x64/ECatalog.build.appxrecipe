@@ -763,6 +763,9 @@
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\about.scale-100.png">
+      <PackagePath>about.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\analizamatematica.scale-100.png">
       <PackagePath>analizamatematica.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -913,6 +916,12 @@
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\book.scale-100.png">
       <PackagePath>book.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\calculator.scale-100.png">
+      <PackagePath>calculator.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\charts.scale-100.png">
+      <PackagePath>charts.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
@@ -928,8 +937,17 @@
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\grades.scale-100.png">
+      <PackagePath>grades.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-100.png">
+      <PackagePath>home.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\java.scale-100.png">
       <PackagePath>java.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\profile.scale-100.png">
+      <PackagePath>profile.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\profilepic.scale-100.png">
       <PackagePath>profilepic.scale-100.png</PackagePath>
@@ -937,8 +955,17 @@
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\school.scale-100.png">
       <PackagePath>school.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\schoolobjects.scale-100.png">
+      <PackagePath>schoolobjects.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\sport.scale-100.png">
       <PackagePath>sport.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\structuri.scale-100.png">
+      <PackagePath>structuri.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Git\Proiect_PDM\ECatalog\ECatalog\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\structuridedate.scale-100.png">
+      <PackagePath>structuridedate.scale-100.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

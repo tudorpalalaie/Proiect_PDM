@@ -7,27 +7,25 @@
         Padding="10,0">
 
         <Label
-            Text="Materiile anului in curs"
+            Text="Materii 2023-2024"
             SemanticProperties.HeadingLevel="Level1"
             FontSize="40"
             HorizontalOptions="Center" />
 
-        <ListView 
-        HorizontalOptions="Center" 
-        x:Name="lvMaterii"
-        ItemSelected="lvMaterii_ItemSelected">
+        <ListView HorizontalOptions="Center" x:Name="lvMaterii" ItemSelected="lvMaterii_ItemSelected">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
-                        <HorizontalStackLayout Padding="10">
-                            <Image Source="{Binding Imagine}"  MaximumHeightRequest="50" MaximumWidthRequest="50"/>
+                        <StackLayout Orientation="Horizontal" Padding="10" HorizontalOptions="Start">
+                            <Image Source="{Binding Imagine}" MaximumHeightRequest="50" MaximumWidthRequest="50"/>
                             <Label VerticalOptions="Center" Text="{Binding Nume, StringFormat='{0} (Numar credite: '}"/>
                             <Label VerticalOptions="Center" Text="{Binding NrCredite, StringFormat=' {0}).'}"/>
-                        </HorizontalStackLayout>
+                        </StackLayout>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+
 
     </StackLayout>
 </ContentPage>

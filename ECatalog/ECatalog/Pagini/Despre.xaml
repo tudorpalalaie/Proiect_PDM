@@ -5,7 +5,7 @@
              Title="Despre">
     <VerticalStackLayout>
         <Label 
-        Text="Catalog (tbd)"
+        Text="ECatalog"
         Margin="15"
         FontSize="Large"
         VerticalOptions="CenterAndExpand" 
@@ -17,13 +17,13 @@
         HeightRequest="200"
         HorizontalOptions="Center" />
         <Label 
-        Text="Aplicatia are scopul principal de a facilita evidenta notelor, mediilor si a materiilor studentului in mediul online. Astfel, asigura o comunicare mai eficienta intre institutia de invatamant si student. Aplicatia contine 7 pagini. O pagina de meniu principal. O pagina de profil ce evidentiaza informatiile studentului. Pagina Materii contine toate materiile pe care le are studentul respectiv. Pagina de note evidentiaza perfomanta acestuia ce se poate vedea si in graficul din pagina urmatoare. Calculator medie ofera posibilitatea studentului de a-si calcula propria medie ponderata. In final, pagina Despre contine informatii despre aplicate."
+        Text="Scopul principal al aplicației este să simplifice evidența notelor, mediilor și a materiilor pentru studenți în mediul online. Aceasta facilitează o comunicare mai eficientă între instituția de învățământ și student. Aplicația constă în 7 pagini distincte: o pagină de meniu principal, o pagină de profil care expune informațiile relevante ale studentului, o pagină Materii care listează toate materiile asociate studentului respectiv. Pagina de note prezintă performanța studentului, reflectată și într-un grafic disponibil în pagina următoare. Calculatorul de medie oferă posibilitatea studentului de a-și calcula propria medie ponderată. În final, pagina Despre furnizează informații detaliate despre aplicație."
         HeightRequest="100"
         Margin="30"
         VerticalOptions="CenterAndExpand" 
         HorizontalOptions="CenterAndExpand" />
         <Label 
-        Text="Autori: Baban Alexandru-Cristian, Nicu Robert-Constantin"
+        Text="Studenti: Cercel Ana-Maria, Mares Mihnea Florian, Palalaie Tudor"
         VerticalOptions="CenterAndExpand" 
         HorizontalOptions="Center" />
     </VerticalStackLayout>

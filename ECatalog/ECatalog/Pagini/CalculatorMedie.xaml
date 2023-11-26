@@ -98,7 +98,7 @@
 
         <Label 
         VerticalOptions="Center"
-        Text="Sport"
+        Text="Structuri de date"
         Grid.Row="3"
         Grid.Column="0" />
 
@@ -225,7 +225,7 @@
         Keyboard="Numeric"/>
 
         <Button
-         Text="Calculeaza media artimetica ponderata!"
+         Text="Calculeaza media semestriala"
          Grid.Row="7"
          Grid.Column="0"
          TextColor="Black"

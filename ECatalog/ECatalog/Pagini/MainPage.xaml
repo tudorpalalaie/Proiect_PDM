@@ -15,14 +15,14 @@
         HeightRequest="300" />
 
             <Label
-            Text="iCatalog"
+            Text="ECatalog"
             FontAttributes="Bold"
             SemanticProperties.HeadingLevel="Level1"
             FontSize="40"
             HorizontalOptions="Center" />
 
             <Label
-            Text="Aplicatie pentru facilizarea evidentei materiilor si notelor"
+            Text="Aplicatie pentru eficientizarea notelor si materiilor unui student"
             SemanticProperties.HeadingLevel="Level2"
             FontSize="18"
             HorizontalOptions="CenterAndExpand"

@@ -7,9 +7,6 @@ public partial class Note : ContentPage
     public Note()
     {
         InitializeComponent();
-
-
-
     }
 
     protected override async void OnAppearing()
@@ -18,8 +15,7 @@ public partial class Note : ContentPage
 
         materieList = await ServiciuMaterii.PreiaMaterii();
         daoMaterii.AdaugaListaMaterii(materieList);
-
-
+        
         pickerMaterii.ItemsSource = materieList;
 
     }

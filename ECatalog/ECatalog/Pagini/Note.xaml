@@ -14,7 +14,11 @@
         BackgroundColor="LightGrey"
         VerticalTextAlignment="Center"
         SelectedIndexChanged="OnPickerSelectedIndexChanged"
-        HorizontalTextAlignment="Center"/>
+        HorizontalTextAlignment="Center">
+            <Picker.ItemDisplayBinding>
+                <Binding Path="Nume" />
+            </Picker.ItemDisplayBinding>
+        </Picker>
 
         <Label Margin="0,30,0,0"
         VerticalOptions="Center"

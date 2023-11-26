@@ -5,7 +5,6 @@ public partial class Materii : ContentPage
 {
     public ServiciuMaterii ServiciuMaterii { get; set; } = new ServiciuMaterii();
     List<Materie> listaMaterii = new List<Materie>();
-    bool materieInit = false;
     public Materii()
     {
         InitializeComponent();
