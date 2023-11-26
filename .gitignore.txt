@@ -22,7 +22,9 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # VS Code folders
-.vscode/
+*vscode/
+*.vs/
+*.vsidx
 
 # Windows Installer files
 *.cab

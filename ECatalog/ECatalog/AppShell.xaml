@@ -5,43 +5,43 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:ECatalog">
 
-    <FlyoutItem Title="Pagina principala">
+    <FlyoutItem Title="Pagina principala" Icon="home.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:MainPage}"
-    Route="MainPage" />
+    Route="MainPage"/>
     </FlyoutItem>
 
-    <FlyoutItem Title="Profil">
+    <FlyoutItem Title="Profil" Icon="profile.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:Profil}"
     Route="Profil" />
     </FlyoutItem>
 
-    <FlyoutItem Title="Materii">
+    <FlyoutItem Title="Materii" Icon="schoolobjects.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:Materii}"
     Route="Materii" />
     </FlyoutItem>
 
-    <FlyoutItem Title="Note">
+    <FlyoutItem Title="Note" Icon="grades.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:Note}"
     Route="Note" />
     </FlyoutItem>
 
-    <FlyoutItem Title="Grafic note">
+    <FlyoutItem Title="Grafic note" Icon="charts.png">
         <ShellContent
         ContentTemplate="{DataTemplate local:GraficNote}"
     Route="GraficNote"/>
     </FlyoutItem>
 
-    <FlyoutItem Title="Calculator medie">
+    <FlyoutItem Title="Calculator medie" Icon="calculator.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:CalculatorMedie}"
     Route="CalculatorMedie" />
     </FlyoutItem>
 
-    <FlyoutItem Title="Despre">
+    <FlyoutItem Title="Despre" Icon="about.png">
         <ShellContent
     ContentTemplate="{DataTemplate local:Despre}"
     Route="Despre" />

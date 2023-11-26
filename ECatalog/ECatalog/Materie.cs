@@ -18,5 +18,10 @@ namespace ECatalog
                 return (String.Concat(Nume.Where(c => !Char.IsWhiteSpace(c)))).ToLower() + ".png";
             }
         }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
