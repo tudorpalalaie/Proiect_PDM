@@ -1,0 +1,1 @@
+C:\Git\Proiect_PDM\ECatalog\ECatalog\ECatalog.csproj;x64

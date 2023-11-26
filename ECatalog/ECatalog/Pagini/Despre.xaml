@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ECatalog.Despre"
+             Title="Despre">
+    <VerticalStackLayout>
+        <Label 
+        Text="Catalog (tbd)"
+        Margin="15"
+        FontSize="Large"
+        VerticalOptions="CenterAndExpand" 
+        HorizontalOptions="Center" />
+        <Image
+        Source="book.png"
+        VerticalOptions="CenterAndExpand"
+        WidthRequest="400"
+        HeightRequest="200"
+        HorizontalOptions="Center" />
+        <Label 
+        Text="Aplicatia are scopul principal de a facilita evidenta notelor, mediilor si a materiilor studentului in mediul online. Astfel, asigura o comunicare mai eficienta intre institutia de invatamant si student. Aplicatia contine 7 pagini. O pagina de meniu principal. O pagina de profil ce evidentiaza informatiile studentului. Pagina Materii contine toate materiile pe care le are studentul respectiv. Pagina de note evidentiaza perfomanta acestuia ce se poate vedea si in graficul din pagina urmatoare. Calculator medie ofera posibilitatea studentului de a-si calcula propria medie ponderata. In final, pagina Despre contine informatii despre aplicate."
+        HeightRequest="100"
+        Margin="30"
+        VerticalOptions="CenterAndExpand" 
+        HorizontalOptions="CenterAndExpand" />
+        <Label 
+        Text="Autori: Baban Alexandru-Cristian, Nicu Robert-Constantin"
+        VerticalOptions="CenterAndExpand" 
+        HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
