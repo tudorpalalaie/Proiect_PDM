@@ -11,13 +11,10 @@ public partial class Note : ContentPage
 
     protected override async void OnAppearing()
     {
-        DaoMaterii daoMaterii = new DaoMaterii();
-
         materieList = await ServiciuMaterii.PreiaMaterii();
-        daoMaterii.AdaugaListaMaterii(materieList);
-        
-        pickerMaterii.ItemsSource = materieList;
+        App.DaoMaterii.AdaugaListaMaterii(materieList);
 
+        pickerMaterii.ItemsSource = materieList;
     }
 
     void OnPickerSelectedIndexChanged(object sender, EventArgs e)
