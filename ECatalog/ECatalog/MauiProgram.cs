@@ -18,6 +18,9 @@ namespace ECatalog
 #if DEBUG
     		builder.Logging.AddDebug();
 #endif
+            string dbPath = Path.Combine(FileSystem.AppDataDirectory, "materii.db");
+
+            builder.Services.AddSingleton(s => ActivatorUtilities.CreateInstance<DaoMaterii>(s, dbPath));
 
             return builder.Build();
         }

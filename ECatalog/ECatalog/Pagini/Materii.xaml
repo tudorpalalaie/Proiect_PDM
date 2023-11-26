@@ -20,9 +20,20 @@
                 <DataTemplate>
                     <ViewCell>
                         <HorizontalStackLayout Padding="10">
-                            <Image Source="{Binding Imagine}"  MaximumHeightRequest="50" MaximumWidthRequest="50"/>
-                            <Label VerticalOptions="Center" Text="{Binding Nume, StringFormat='{0} (Numar credite: '}"/>
-                            <Label VerticalOptions="Center" Text="{Binding NrCredite, StringFormat=' {0}).'}"/>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="45"></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                
+                                <Image Grid.Column="0" Source="{Binding Imagine}"  MaximumHeightRequest="50" MaximumWidthRequest="50"/>
+                                <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding Nume, StringFormat='{0} (Numar credite: '}"/>
+                                <Label Grid.Column="2" VerticalOptions="Center" Text="{Binding NrCredite, StringFormat=' {0}).'}"/>
+                            </Grid>
                         </HorizontalStackLayout>
                     </ViewCell>
                 </DataTemplate>

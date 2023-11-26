@@ -13,12 +13,10 @@ public partial class Materii : ContentPage
 
     protected override async void OnAppearing()
     {
-        DaoMaterii daoMaterii = new DaoMaterii();
-
         if (listaMaterii.Count == 0)
         {
             listaMaterii = await ServiciuMaterii.PreiaMaterii();
-            daoMaterii.AdaugaListaMaterii(listaMaterii);
+            App.DaoMaterii.AdaugaListaMaterii(listaMaterii);
         }
 
         lvMaterii.ItemsSource = listaMaterii;
@@ -27,5 +25,12 @@ public partial class Materii : ContentPage
     private void lvMaterii_ItemSelected(object sender, SelectedItemChangedEventArgs e)
     {
         DisplayAlert("Info", e.SelectedItem.ToString(), "OK");
+    }
+
+    private void OnDelete(object sender, EventArgs e)
+    {
+        Button button = (Button)sender;
+        App.DaoMaterii.StergeMaterie((int)button.BindingContext);
+        lvMaterii.ItemsSource = App.DaoMaterii.ObtineMaterii();
     }
 }
