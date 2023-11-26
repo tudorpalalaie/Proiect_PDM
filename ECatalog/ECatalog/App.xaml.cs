@@ -2,11 +2,15 @@
 {
     public partial class App : Application
     {
-        public App()
+        public static DaoMaterii DaoMaterii { get; private set; }
+
+        public App(DaoMaterii daoMaterii)
         {
             InitializeComponent();
 
             MainPage = new AppShell();
+
+            DaoMaterii = daoMaterii;
         }
     }
 }
