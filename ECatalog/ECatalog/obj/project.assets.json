@@ -15,19 +15,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -2187,19 +2188,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -4344,19 +4346,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -6501,19 +6504,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -8658,19 +8662,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -10815,19 +10820,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -12969,19 +12975,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -15123,19 +15130,20 @@
           }
         }
       },
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "SkiaSharp.Views": "2.80.2"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/MonoAndroid10/Microcharts.Droid.dll": {},
-          "lib/MonoAndroid10/Microcharts.dll": {}
+          "lib/net6.0-android31.0/Microcharts.Maui.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -17264,17 +17272,17 @@
       }
     },
     "net7.0-ios16.1": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -17715,28 +17723,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/android-arm": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -18100,28 +18107,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/android-arm64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -18485,28 +18491,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/android-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -18870,28 +18875,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/android-x86": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -19255,28 +19259,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/iossimulator-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -19642,28 +19645,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -20029,28 +20031,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-ios16.1/win10-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-ios16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -20414,28 +20415,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -20856,28 +20856,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/android-arm": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -21241,28 +21240,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/android-arm64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -21626,28 +21624,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/android-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -22011,28 +22008,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/android-x86": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -22396,28 +22392,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/iossimulator-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -22778,28 +22773,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -23163,28 +23157,27 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-maccatalyst16.1/win10-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3",
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -23548,28 +23541,26 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "System.ValueTuple/4.5.0": {
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
         "type": "package",
         "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
     "net7.0-windows10.0.19041": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -24138,29 +24129,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -24630,29 +24611,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/android-arm64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -25122,29 +25093,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -25614,29 +25575,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/android-x86": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -26106,29 +26057,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -26594,30 +26535,20 @@
         },
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
-        }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
         }
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -27084,29 +27015,19 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     },
     "net7.0-windows10.0.19041/win10-x64": {
-      "Microcharts/0.9.5.9": {
+      "Microcharts.Maui/1.0.0": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp": "2.80.2",
-          "System.ValueTuple": "4.5.0"
+          "SkiaSharp.Views.Maui.Controls": "2.88.3"
         },
         "compile": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Microcharts.dll": {}
+          "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/7.0.0": {
@@ -27585,15 +27506,6 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
-      },
-      "System.ValueTuple/4.5.0": {
-        "type": "package",
-        "compile": {
-          "ref/netcoreapp2.0/_._": {}
-        },
-        "runtime": {
-          "lib/netcoreapp2.0/_._": {}
-        }
       }
     }
   },
@@ -27616,24 +27528,21 @@
         "lib/net6.0-android31.0/GoogleGson.xml"
       ]
     },
-    "Microcharts/0.9.5.9": {
-      "sha512": "oiaPjsC+l211tRXw17bxT7D1uPHLZG4wZq7w9h9w7LFX76s4ppLN9UGVkUQJ2vBammdFH0JXtbvEUVtbOq85UQ==",
+    "Microcharts.Maui/1.0.0": {
+      "sha512": "Q7FWgkWSA44vgg5N9Nd4KdwoMflcAPYZ7VHqnjetcWu2z4EUx/75OgVqDJeP9WDmHC+hU4BPOyhnPhkS4+1RBg==",
       "type": "package",
-      "path": "microcharts/0.9.5.9",
+      "path": "microcharts.maui/1.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/MonoAndroid10/Microcharts.Droid.dll",
-        "lib/MonoAndroid10/Microcharts.dll",
-        "lib/netstandard2.0/Microcharts.dll",
-        "lib/uap10.0/Microcharts.Uwp.dll",
-        "lib/uap10.0/Microcharts.dll",
-        "lib/xamarinios1.0/Microcharts.dll",
-        "lib/xamarinios1.0/Microcharts.iOS.dll",
-        "lib/xamarinmac2.0/Microcharts.dll",
-        "lib/xamarinmac2.0/Microcharts.macOS.dll",
-        "microcharts.0.9.5.9.nupkg.sha512",
-        "microcharts.nuspec"
+        "README.md",
+        "lib/net6.0-android31.0/Microcharts.Maui.dll",
+        "lib/net6.0-android31.0/Microcharts.Maui.xml",
+        "lib/net6.0-ios16.1/Microcharts.Maui.dll",
+        "lib/net6.0-maccatalyst16.1/Microcharts.Maui.dll",
+        "lib/net6.0-windows10.0.19041/Microcharts.Maui.dll",
+        "microcharts.maui.1.0.0.nupkg.sha512",
+        "microcharts.maui.nuspec"
       ]
     },
     "Microsoft.Extensions.Configuration/7.0.0": {
@@ -29438,48 +29347,21 @@
         "version.txt"
       ]
     },
-    "System.ValueTuple/4.5.0": {
-      "sha512": "okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+    "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+      "sha512": "vq+81ZqZz9oHV6iWgGXFnxHAyO5xA73nfvDNu5LwymIK294is5bRo3P063VToAbDRyyc0qq/YFRYjHmiD6Cv8Q==",
       "type": "package",
-      "path": "system.valuetuple/4.5.0",
+      "path": "system.runtime.interopservices.nfloat.internal/6.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Icon.png",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
-        "lib/MonoAndroid10/_._",
-        "lib/MonoTouch10/_._",
-        "lib/net461/System.ValueTuple.dll",
-        "lib/net461/System.ValueTuple.xml",
-        "lib/net47/System.ValueTuple.dll",
-        "lib/net47/System.ValueTuple.xml",
-        "lib/netcoreapp2.0/_._",
-        "lib/netstandard1.0/System.ValueTuple.dll",
-        "lib/netstandard1.0/System.ValueTuple.xml",
-        "lib/netstandard2.0/_._",
-        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
-        "lib/portable-net40+sl4+win8+wp8/System.ValueTuple.xml",
-        "lib/uap10.0.16299/_._",
-        "lib/xamarinios10/_._",
-        "lib/xamarinmac20/_._",
-        "lib/xamarintvos10/_._",
-        "lib/xamarinwatchos10/_._",
-        "ref/MonoAndroid10/_._",
-        "ref/MonoTouch10/_._",
-        "ref/net461/System.ValueTuple.dll",
-        "ref/net47/System.ValueTuple.dll",
-        "ref/netcoreapp2.0/_._",
-        "ref/netstandard2.0/_._",
-        "ref/portable-net40+sl4+win8+wp8/System.ValueTuple.dll",
-        "ref/uap10.0.16299/_._",
-        "ref/xamarinios10/_._",
-        "ref/xamarinmac20/_._",
-        "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._",
-        "system.valuetuple.4.5.0.nupkg.sha512",
-        "system.valuetuple.nuspec",
-        "useSharedDesignerContext.txt",
-        "version.txt"
+        "ref/net6.0/System.Runtime.InteropServices.dll",
+        "ref/net6.0/System.Runtime.InteropServices.xml",
+        "system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
+        "system.runtime.interopservices.nfloat.internal.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "Xamarin.Android.Glide/4.13.2.2": {
@@ -31482,7 +31364,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
-      "Microcharts >= 0.9.5.9",
+      "Microcharts.Maui >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -31507,7 +31389,7 @@
       "sqlite-net-pcl >= 1.8.116"
     ],
     "net7.0-ios16.1": [
-      "Microcharts >= 0.9.5.9",
+      "Microcharts.Maui >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -31521,7 +31403,7 @@
       "sqlite-net-pcl >= 1.8.116"
     ],
     "net7.0-maccatalyst16.1": [
-      "Microcharts >= 0.9.5.9",
+      "Microcharts.Maui >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -31535,7 +31417,7 @@
       "sqlite-net-pcl >= 1.8.116"
     ],
     "net7.0-windows10.0.19041": [
-      "Microcharts >= 0.9.5.9",
+      "Microcharts.Maui >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -31610,9 +31492,9 @@
       "net7.0-android33.0": {
         "targetAlias": "net7.0-android",
         "dependencies": {
-          "Microcharts": {
+          "Microcharts.Maui": {
             "target": "Package",
-            "version": "[0.9.5.9, )"
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -31801,9 +31683,9 @@
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
         "dependencies": {
-          "Microcharts": {
+          "Microcharts.Maui": {
             "target": "Package",
-            "version": "[0.9.5.9, )"
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -31925,9 +31807,9 @@
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
         "dependencies": {
-          "Microcharts": {
+          "Microcharts.Maui": {
             "target": "Package",
-            "version": "[0.9.5.9, )"
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -32050,9 +31932,9 @@
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
         "dependencies": {
-          "Microcharts": {
+          "Microcharts.Maui": {
             "target": "Package",
-            "version": "[0.9.5.9, )"
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GHTgR5UpiAiDnhFKA+2faSXxZo7WyeeLXMcWkSTbQXAMWKtT/2m3meGPKWwbsEUZ8G451jbZAkK41QC4Awxn2Q==",
+  "dgSpecHash": "V34In9RLlZj2Fxc0SSxevIDgNvcbfxKHIMI5kzDzJPQO6p3yiymazHXnjCDg9xnjNyETEoRBR07+pYL2R/iJCQ==",
   "success": true,
   "projectFilePath": "C:\\Git\\Proiect_PDM\\ECatalog\\ECatalog\\ECatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mihne\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
-    "C:\\Users\\mihne\\.nuget\\packages\\microcharts\\0.9.5.9\\microcharts.0.9.5.9.nupkg.sha512",
+    "C:\\Users\\mihne\\.nuget\\packages\\microcharts.maui\\1.0.0\\microcharts.maui.1.0.0.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
@@ -43,7 +43,7 @@
     "C:\\Users\\mihne\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "C:\\Users\\mihne\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\mihne\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\mihne\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
