@@ -5,34 +5,34 @@
              Title="Profil">
     <VerticalStackLayout>
         <Label 
-         Text="Utilizator: Vasile Andrei"
+         x:Name="NameLabel"
          Margin="15"
          FontSize="Large"
          VerticalOptions="CenterAndExpand" 
          HorizontalOptions="Center" />
         <Image
-         Source="profilepic.png"
+         x:Name="Image"
          VerticalOptions="CenterAndExpand"
          WidthRequest="400"
          HeightRequest="200"
          HorizontalOptions="Center" />
         <Label 
-         Text="An studiu: 2"
+         x:Name="YearLabel"
          Margin="20"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
         <Label 
-         Text="Grupa: 1117"
+         x:Name="GroupLabel"
          Margin="20"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
         <Label 
-         Text="Seria: D"
+         x:Name="SeriesLabel"
          Margin="20"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
         <Label 
-         Text="Forma Finantare: Buget"
+         x:Name="FinanceLabel"
          Margin="20"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />

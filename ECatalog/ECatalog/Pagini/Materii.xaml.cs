@@ -1,10 +1,10 @@
 namespace ECatalog;
 
 public partial class Materii : ContentPage
-
 {
     public ServiciuMaterii ServiciuMaterii { get; set; } = new ServiciuMaterii();
     List<Materie> listaMaterii = new List<Materie>();
+
     public Materii()
     {
         InitializeComponent();
@@ -23,7 +23,7 @@ public partial class Materii : ContentPage
 
     private void lvMaterii_ItemSelected(object sender, SelectedItemChangedEventArgs e)
     {
-        DisplayAlert("Info", e.SelectedItem.ToString(), "OK");
+        DisplayAlert("Info", "Materia " + ((Materie)e.SelectedItem).Nume + " valoreaza " + ((Materie)e.SelectedItem).NrCredite + " credite.", "OK");
     }
 
     private void OnDelete(object sender, EventArgs e)
