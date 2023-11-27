@@ -23,6 +23,7 @@ namespace ECatalog
             string dbPath = Path.Combine(FileSystem.AppDataDirectory, "materii.db");
 
             builder.Services.AddSingleton(s => ActivatorUtilities.CreateInstance<DaoMaterii>(s, dbPath));
+            builder.Services.AddSingleton(s => ActivatorUtilities.CreateInstance<DaoStudent>(s, dbPath));
 
             return builder.Build();
         }

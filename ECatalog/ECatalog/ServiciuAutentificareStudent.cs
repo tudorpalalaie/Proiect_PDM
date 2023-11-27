@@ -7,19 +7,17 @@ using System.Threading.Tasks;
 
 namespace ECatalog
 {
-    public class ServiciuMaterii
+    public class ServiciuAutentificareStudent
     {
-        public ServiciuMaterii()
-        {
+        public ServiciuAutentificareStudent() { }
 
-        }
-        public async Task<List<Materie>> PreiaMaterii()
+        public static async Task<Student> PreiaUtilizator()
         {
             try
             {
-                var jsonData = await DownloadJsonAsync("https://www.jsonkeeper.com/b/M4UY");
-                var materii = JsonConvert.DeserializeObject<List<Materie>>(jsonData);
-                return materii;
+                var jsonData = await DownloadJsonAsync("https://www.jsonkeeper.com/b/5PXW");
+                var student = JsonConvert.DeserializeObject<Student>(jsonData);
+                return student;
             }
             catch (Exception ex)
             {
