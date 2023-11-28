@@ -4,36 +4,41 @@
              x:Class="ECatalog.Profil"
              Title="Profil">
     <VerticalStackLayout>
+        <Image
+         x:Name="Image"
+         WidthRequest="500"
+         HeightRequest="200"
+         HorizontalOptions="Center"
+         VerticalOptions="CenterAndExpand" />
         <Label 
-         x:Name="NameLabel"
-         Margin="15"
+         x:Name="UsernameLabel"
+         Margin="10"
          FontSize="Large"
          VerticalOptions="CenterAndExpand" 
          HorizontalOptions="Center" />
-        <Image
-         x:Name="Image"
-         VerticalOptions="CenterAndExpand"
-         WidthRequest="400"
-         HeightRequest="200"
+        <Label 
+         x:Name="NameLabel"
+         Margin="15"
+         VerticalOptions="CenterAndExpand" 
+         HorizontalOptions="Center" />
+        <Label 
+         x:Name="EmailLabel"
+         Margin="15"
+         VerticalOptions="CenterAndExpand" 
          HorizontalOptions="Center" />
         <Label 
          x:Name="YearLabel"
-         Margin="20"
-         VerticalOptions="StartAndExpand" 
-         HorizontalOptions="CenterAndExpand" />
-        <Label 
-         x:Name="GroupLabel"
-         Margin="20"
+         Margin="15"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
         <Label 
          x:Name="SeriesLabel"
-         Margin="20"
+         Margin="15"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
         <Label 
-         x:Name="FinanceLabel"
-         Margin="20"
+         x:Name="GroupLabel"
+         Margin="15"
          VerticalOptions="StartAndExpand" 
          HorizontalOptions="CenterAndExpand" />
     </VerticalStackLayout>

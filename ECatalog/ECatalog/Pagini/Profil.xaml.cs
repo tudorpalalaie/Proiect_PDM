@@ -16,13 +16,14 @@ public partial class Profil : ContentPage
             studentAutentificat = new Student();
             studentAutentificat = await ServiciuAutentificareStudent.PreiaUtilizator();
             App.DaoStudent.AdaugaStudent(studentAutentificat);
-            
-            NameLabel.Text = "Nume: " + studentAutentificat.NumeUtilizator;
+
             Image.Source = studentAutentificat.ImagineProfil;
+            UsernameLabel.Text = "Username: " + studentAutentificat.NumeUtilizator;
+            NameLabel.Text = "Nume: " + studentAutentificat.Nume;
+            EmailLabel.Text = "Email: " + studentAutentificat.Email;
             YearLabel.Text = "An studiu: " + studentAutentificat.AnStudiu;
-            GroupLabel.Text = "Grupa: " + studentAutentificat.Grupa;
             SeriesLabel.Text = "Seria: " + studentAutentificat.Seria;
-            FinanceLabel.Text = "Forma finantare: " + studentAutentificat.FormaFinantare;
+            GroupLabel.Text = "Grupa: " + studentAutentificat.Grupa;
         }
     }
 }
